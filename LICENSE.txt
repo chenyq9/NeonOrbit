@@ -1,0 +1,3 @@
+Neon Orbit sample project generated for the requesting user.
+All original source code, vector artwork, store artwork, and synthesized sound effects in this archive may be modified and used by the user in their project.
+Third-party Android/Kotlin/Jetpack dependencies retain their respective licenses.
